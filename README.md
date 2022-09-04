@@ -1,7 +1,7 @@
-# Application-Wyylde (nom indéfini)
 
+# Rencontres Indecentes
 #Présentation
-Cette application à pour but de faciliter les recherches sur "https://www.wyylde.com/".
+Cette application à pour but de faciliter la gestion d'evenements.
 
 ##Pour qui est fait l'application ?
 Pour le moment nous discernons 3 groupes : Organisateurs, Utilisateur publics, Admins.
