@@ -1,10 +1,16 @@
 
 # Rencontres Indecentes
+
 #Présentation
-Cette application à pour but de faciliter la gestion d'evenements.
+Bienvenu a vous qui avez trouvé ce lien !
+Mon application magique a pour but de faciliter la gestion des bon et mauvais profil.
+J'offre également des possibilités en cours de tests afin de pouvoir faciliter les organisateurs (carte, lives, etc)
 
 ##Pour qui est fait l'application ?
-Pour le moment nous discernons 3 groupes : Organisateurs, Utilisateur publics, Admins.
+Pour le moment uniquement les organisateurs disposant d'une licence valide.
+Licences uniquement delivrable par contact direct a rencontre.indecentes@gmail.com
+
+## Comment est fait l'application ?
 
 L'application est en réalité séparé en 2 applications partageant le meme serveur :
 
@@ -13,11 +19,11 @@ L'application est en réalité séparé en 2 applications partageant le meme ser
 
 # A quoi sert l'application sous windows :
 
-L'application vous permet...
+Mmmm
 
 # A quoi sert l'extention sous chrome :
 
-L'extention vous permet...
+Mmmm
 
 #Questions :
 
