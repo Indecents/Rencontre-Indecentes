@@ -17,11 +17,12 @@ L'application est en réalité séparé en 2 applications partageant le meme ser
 -Une application sous windows
 -Une extention sous chrome
 
-# A quoi sert l'application sous windows :
+## A quoi sert l'application sous windows :
 
 Mmmm
 
-# A quoi sert l'extention sous chrome :
+
+## A quoi sert l'extention sous chrome :
 
 Mmmm
 
