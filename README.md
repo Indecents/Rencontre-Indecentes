@@ -1,12 +1,12 @@
 
 # Rencontres Indecentes
 
-#Présentation
+## Présentation
 Bienvenu a vous qui avez trouvé ce lien !
 Mon application magique a pour but de faciliter la gestion des bon et mauvais profil.
 J'offre également des possibilités en cours de tests afin de pouvoir faciliter les organisateurs (carte, lives, etc)
 
-##Pour qui est fait l'application ?
+## Pour qui est fait l'application ?
 Pour le moment uniquement les organisateurs disposant d'une licence valide.
 Licences uniquement delivrable par contact direct a rencontre.indecentes@gmail.com
 
